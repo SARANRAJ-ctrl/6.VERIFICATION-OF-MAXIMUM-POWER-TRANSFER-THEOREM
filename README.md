@@ -1,5 +1,7 @@
 # 6.VERIFICATION-OF-MAXIMUM-POWER-TRANSFER-THEOREM
+#NAME:A.SARANRAJ
 
+#REGISTER NO:25018567
 **AIM:**
 
 To measure the power absorbed in a load and to verify that the power absorbed in a load is maximum only when load resistance is equal to the source resistance.
@@ -26,40 +28,34 @@ The maximum power transfer theorem tells us that the load should be equal in mag
 
 **CIRCUIT DIAGRAM: FOR MAXIMUM POWER TRANSFER THEOREM:**
 
+<img width="1329" height="629" alt="image" src="https://github.com/user-attachments/assets/a41e52e7-0684-4ac1-b2e9-b22c52229c29" />
+
 
 **MODEL GRAPH:**
+
+<img width="558" height="707" alt="image" src="https://github.com/user-attachments/assets/2b7f144e-2076-4339-b173-079aad7f2584" />
+
+
 
 Resistance (RL) in ohm
 
 **TABULATION:**
- 
-**TABLE (1) :FOR THEORETICAL CALCULATION: Rth =750 Ω**
-
-S.No	Load
-Resistance(RL) in ohm	Load
-Current (IL) in mA	Load
-voltage (VL) in volts	Load Power (PL) in watts
-1.				
-2.				
-3.				
-4.				
-5.				
 
 
-**TABLE (2): FOR PRACTICAL CALCULATION**
 
-S.No	Load
-Resistance(RL) in ohm	Load
-Current (IL) in amps	Load
-voltage (VL) in volts	Load Power (PL) in watts
-1.				
-2.				
-3.				
-4.				
-5.				
+ <img width="580" height="704" alt="image" src="https://github.com/user-attachments/assets/ac304109-b9db-4113-99cf-6a1cddb776b8" />
+
+
 
 
 **MODEL CALCULATION:**
+
+
+
+<img width="404" height="716" alt="image" src="https://github.com/user-attachments/assets/fafd0d9a-7e2f-4fae-aefb-7d614aa8cbe9" />
+
+
+
 
 **PROCEDURE:**
 
@@ -72,6 +68,9 @@ voltage (VL) in volts	Load Power (PL) in watts
 4.	Verify the measured values of RL at maximum power transfer as same as calculated and found graphically.
 
 **RESULT:**
+
+
+<img width="722" height="661" alt="image" src="https://github.com/user-attachments/assets/3c89f401-7d72-4353-86b3-dff5f384c4ef" />
 
 Thus maximum power transfer theorem is verified practically and theoretically
 
